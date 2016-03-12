@@ -1,0 +1,28 @@
+name: katherinefan
+favicon: null
+layout_spectrum: 0.17688079574145377
+typography_spectrum: 0.1808943736832589
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5484475248958915
+  lightness: 0.5429683602415025
+  saturation: 0.6023365035653114
+  rhythmicContrast: 0.07705207727849483
+purpose: []
